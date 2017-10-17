@@ -1,0 +1,7 @@
+base   flowchartjs2
+author Szymon Olewniczak
+email  solewniczak@rid.pl
+date   2017-10-17
+name   flowchartjs2 plugin
+desc   Syntax component for flowchart.js
+url    https://www.dokuwiki.org/plugin:raphael?do=edit
